@@ -1,2 +1,9 @@
-# pandas-for-data-science
-🐼 A beginner-friendly Pandas learning series covering foundations, data exploration, and Series with step-by-step hands-on practice. 🚀
+# 🐼 Pandas Learning Series
+
+A beginner-friendly Pandas learning notebook covering:
+
+- Introduction to Pandas
+- Data Loading
+- Data Exploration
+- Pandas Series
+- Basic Operations
